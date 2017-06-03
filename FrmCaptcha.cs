@@ -9,6 +9,7 @@ using System.Windows.Forms;
 using System.IO;
 using System.Drawing.Imaging;
 
+//
 namespace Captcha
 {
     public partial class FrmCaptcha : Form
